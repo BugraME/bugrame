@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQF1-o-q2MN2Uw/profile-displaybackgroundimage-shrink_350_1400/0/1693867063389?e=1712793600&v=beta&t=2FlH_u6D8vpAZAH_5smLNwX1YWkx32RmOwK0U8c8BTk"  />
+<img src="https://bugrame.com/images/banner.jpeg"  />
 
 <h2>Hi 👋! I'm BugraME from Turkey</h2>
 <p>
